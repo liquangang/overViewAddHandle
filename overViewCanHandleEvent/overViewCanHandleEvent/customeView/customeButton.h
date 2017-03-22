@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  customeButton.h
 //  codeTest1
 //
 //  Created by biyao on 2017/3/22.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface customeButton : UIButton
 
 @end
-
